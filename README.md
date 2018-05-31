@@ -1,5 +1,5 @@
 # keras-sentiment-analysis-simple-NN
-a neural network based sentiment analysis in keras
+a neural network based sentiment analysis in keras on IMDB dataset
 
 a simple test of a three layered NN on sentiment analysis
 training accuracy : 93.91%
